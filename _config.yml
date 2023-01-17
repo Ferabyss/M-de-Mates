@@ -1,0 +1,14 @@
+title: F de Física
+description: Hola
+theme: just-the-docs
+
+logo: "/assets/images/logo3.png"
+favicon_ico: "/assets/images/icon1.png"
+
+math: katex
+  
+callouts:
+  nota:
+    title: Nota
+    color: purple
+
