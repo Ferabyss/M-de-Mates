@@ -1,6 +1,9 @@
 title: M de Mates
 description: Hola
 theme: just-the-docs
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/icon.png"
