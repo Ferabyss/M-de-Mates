@@ -1,4 +1,4 @@
-title: F de Física
+title: M de Mates
 description: Hola
 theme: just-the-docs
 
@@ -10,5 +10,5 @@ math: katex
 callouts:
   nota:
     title: Nota
-    color: purple
+    color: red
 
