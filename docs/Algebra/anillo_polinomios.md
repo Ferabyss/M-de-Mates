@@ -1,3 +1,9 @@
+---
+title: Anillo de Polinomios
+layout: default
+margin: auto
+parent: Algebra
+---
 # Anillo de Polinomios
 
 ## Series de Potencias
