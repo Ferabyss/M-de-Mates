@@ -3,6 +3,9 @@ description: Hola
 theme: just-the-docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+colors:
+  link: "#FF0000"
+
 
 
 logo: "/assets/images/logo.png"
