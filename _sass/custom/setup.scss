@@ -1,5 +1,9 @@
 @import 'config.yml';
 
+$purple-000: #800080;
+$red-000: #8b0000;
+
+
 a:link {
   color: map-get($colors, link);
 }
