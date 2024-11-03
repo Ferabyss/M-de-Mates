@@ -5,6 +5,10 @@ theme: just-the-docs
 color_scheme: dark
 color: red
 
+a:link {
+  color: red;
+}
+
 
 
 logo: "/assets/images/logo.png"
