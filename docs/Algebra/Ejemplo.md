@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Restricciones
+title: Ejemplo
 ---
 
 ## Teoría
