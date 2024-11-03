@@ -23,7 +23,7 @@ Este proyecto nace como respuesta a la falta de páginas en español que cubran 
 ## María Fernanda Martínez Vázquez
 
 
- <img src="assets/images/feryo.jpg" alt="feryo">
+ <img src="assets/images/feryo.jpg" alt="feryo" style="height: 50%; width: 50%;" align="center">
   Soy María Fernanda Martínez Vázquez, de Toluca, México. Soy estudiante de último año de Física y Matemáticas en el IPN y de primer año en la Lic. Matemáticas Aplicadas en Computación en la UNAM. Mi investigación se centra en la cosmología computacional y cuántica, respaldada por mi trabajo como asistente de investigación en el IPN. He obtenido el reconocimiento de Excelencia Cuántica de IBM y gané el Qiskit Summer Jam nacional en 2021. Durante la preparatoria, fui co-capitana del equipo de robótica Spartans #8327 de FIRST Tech Challenge, con el que obtuvimos premios como el Collins Aerospace Innovate Award, por el robot con mejor diseño y dos veces el Finalist Alliance Captain, que es un premio otorgado al segundo lugar nacional.
 
 
@@ -31,6 +31,18 @@ Mi pasión por la física y en especial la cosmología, me impulsa a explorar la
 
 Mis redes sociales son:
 - [Linkedin](https://www.linkedin.com/in/maria-fernanda-martinez-vazquez/)
+- [Git-Hub](https://github.com/Ferabyss)
+ 
+- [Instagram](https://instagram.com/Ferabyss)
+ 
+- [YouTube](https://YouTube.com/Ferabyss)
+ 
+- [TikTok](https://tiktok.com/Ferabyss)
+ 
+ 
+ 
+ 
+edin](https://www.linkedin.com/in/maria-fernanda-martinez-vazquez/)
 - [Git-Hub](https://github.com/Ferabyss)
  
 - [Instagram](https://instagram.com/Ferabyss)
