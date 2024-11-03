@@ -2,12 +2,7 @@ title: M de Mates
 description: Hola
 theme: just-the-docs
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-
-
-a:link {
-  colors: "#FF0000"
-}
+color_scheme: foo
 
 
 
