@@ -6,7 +6,7 @@ color_scheme: dark
 
 
 a:link {
-  colors: link: "#FF0000"
+  colors: "#FF0000"
 }
 
 
