@@ -27,14 +27,18 @@ Soy María Fernanda Martínez Vázquez, de Toluca, México. Soy estudiante de ú
 
 Mi pasión por la física y en especial la cosmología, me impulsa a explorar la materia oscura, la formación de estructura y el universo temprano.
 
-Mis redes sociales son:
+## Mis redes sociales son:
+
+### Perfiles profesionales: Ciencia y Cosmología.
 - [Linkedin](https://www.linkedin.com/in/maria-fernanda-martinez-vazquez/)
 - [Git-Hub](https://github.com/Ferabyss)
- 
+
+### Perfiles Personales: Cuentas de dibujos.
 - [Instagram](https://instagram.com/Ferabyss)
  
 - [YouTube](https://youtube.com/@ferabyss)
  
-- [TikTok](https://tiktok.com/Ferabyss)
+- [TikTok](https://www.tiktok.com/@ferabyss)
  
+
  
